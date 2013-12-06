@@ -12,6 +12,6 @@
     "mocha-cakes": "~0.9.0",
     "zombie": "~2.0.0-alpha24",
     "should": "~2.1.1",
-    "appstrap": "~0.1.0"
+    "appstrap": "~0.2.0"
   }
 }
